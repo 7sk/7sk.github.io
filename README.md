@@ -1,1 +1,1 @@
-# nanashiki-homepage.github.io
+# nanashiki.github.io
